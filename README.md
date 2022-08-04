@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OPEN-BNS
+- 👀 I’m open source blockchain naming system for web3 and metaverse
+- 🌱 I’m currently learning about different L0, L1, L2 blockchains, nfts, metaverse and web3 in general
+- 💞️ I’m looking to collaborate on making the worlds first blockchain based naming system that is open source, decentralized, un-controlable, sensor ship resistant.
+- 📫 Feel free to message, comment on my repo or commits...
